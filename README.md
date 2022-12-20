@@ -1,2 +1,2 @@
-# termal_loop_12_12_2022_1
-Задача теплопереноса
+movi_graph_1.8.py 
+In this work, I extract data from text files and get their graphical display through the Matplotlib library
